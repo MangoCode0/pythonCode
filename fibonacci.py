@@ -6,4 +6,4 @@ for i in range(n):
     fib=fib1+fib2
     fib1=fib2
     fib2=fib
-    
+
